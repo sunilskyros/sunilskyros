@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sunil Kumar</h1>
 <h3 align="center">Java Developer | Backend Enthusiast | Problem Solver</h3>
-[![cat](images/cat.gif)](https://github.com/yumiaura/mycat)
 <p align="center">
   <a href="https://github.com/sunilskyros">
     <img src="https://komarev.com/ghpvc/?username=sunilskyros&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   </a>
 </p>
 
+[(images/cat.gif)]
 ---
 
 ## 🚀 About Me
